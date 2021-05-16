@@ -6,7 +6,6 @@ Currently, I am an enrolled student at the vocational school HTL St.Pölten in L
 
 👨‍🔬I love tinkering with different technologies, be it TypeScript, Spring, Kotlin.
 
-⚡ Fun fact: I hate TikTok.
 
 📱I love experimenting with new stuff like Angular, React and all sorts of other things, one thing I am currently exploring is native iOS Development with SwiftUI.
 <!--
