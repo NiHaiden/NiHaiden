@@ -7,8 +7,7 @@ Currently, I am an enrolled student at the vocational school HTL St.Pölten in L
 👨‍🔬I love tinkering with different technologies, be it TypeScript, Spring, Kotlin.
 
 
-📱I love experimenting with new stuff like Angular, React and all sorts of other things, one thing I am currently exploring is native iOS Development with SwiftUI.
-<!--
+🔭I love experimenting with new stuff like Angular, React and all sorts of other things. 
 **NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
