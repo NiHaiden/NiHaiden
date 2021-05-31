@@ -8,6 +8,7 @@ Currently, I am an enrolled student at the vocational school HTL St.Pölten in L
 
 
 🔭I love experimenting with new stuff like Angular, React and all sorts of other things. 
+Please don't look into the Labxx Repositories, this is only bad code and only for archival purposes 😅
 <!--**NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><!--
 Here are some ideas to get you started:
