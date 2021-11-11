@@ -7,18 +7,20 @@ Hi there! 👋
 My Name is Niklas Haiden and I am currently a full-time student and aspiring software engineer.
 I am an enrolled student at the vocational school HTL St.Pölten in Lower Austria. 
 <hr>
-## Social Media 
+
+## Socials 
+
 [![GitHub](icons/github.png)](https://github.com/NiHaiden)
 [![Twitter](icons/twitter.png)](https://twitter.com/niklashdev)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/niklas-haiden-352853123/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/nklsh.jpeg/)
 
 ## Currently working or experimenting with: 
+
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
