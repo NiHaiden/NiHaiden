@@ -1,14 +1,33 @@
-### Hi there 👋
+# NiHaiden / Niklas Haiden
 
-My name is Niklas Haiden and I am a full time student. 👨‍🎓
+### About me 
 
-Currently, I am an enrolled student at the vocational school HTL St.Pölten in Lower Austria. 
+Hi there! 👋
 
-👨‍🔬I love tinkering with different technologies, be it TypeScript, Spring, Kotlin.
+My Name is Niklas Haiden and I am currently a full-time student and aspiring software engineer.
+I am an enrolled student at the vocational school HTL St.Pölten in Lower Austria. 
+<hr>
+## Social Media 
+[![GitHub](icons/github.png)](https://github.com/NiHaiden)
+[![Twitter](icons/twitter.png)](https://twitter.com/niklashdev)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/niklas-haiden-352853123/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/nklsh.jpeg/)
+
+## Currently working or experimenting with: 
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgres.png" /></a>
 
 
-🔭I love experimenting with new stuff like Angular, React and all sorts of other things. 
-Please don't look into the Labxx Repositories, this is only bad code and only for archival purposes 😅
+👨‍🔬 Experimenting with different technologies is my jam and I am currently learning App Development in Flutter.
+As part of my learning process in school I made a lot assignments, these are contained in LabXX Repositories.
 <!--**NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><!--
 Here are some ideas to get you started:
