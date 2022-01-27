@@ -26,6 +26,8 @@ I am an enrolled student at the vocational school HTL St.Pölten in Lower Austri
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgres.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 
 
 👨‍🔬 Experimenting with different technologies is my jam and I am currently learning App Development in Flutter.
