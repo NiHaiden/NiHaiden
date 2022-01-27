@@ -6,7 +6,6 @@ Hi there! 👋
 
 My Name is Niklas Haiden and I am currently a full-time student and aspiring software engineer.
 I am an enrolled student at the vocational school HTL St.Pölten in Lower Austria. 
-<hr>
 
 ## Socials 
 
