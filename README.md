@@ -14,6 +14,10 @@ I am an enrolled student at the vocational school HTL St.Pölten in Lower Austri
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/niklas-haiden-352853123/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/nklsh.jpeg/)
 
+Want to get in contact via the old fashioned way? Shoot me a message here: 
+
+My Email: hello@niklas.life
+
 ## Currently working or experimenting with: 
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
