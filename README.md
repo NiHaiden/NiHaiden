@@ -2,6 +2,8 @@
 
 ### About me 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 Hi there! 👋
 
 My Name is Niklas Haiden and I am currently a full-time student and aspiring software engineer.
