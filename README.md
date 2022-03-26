@@ -6,8 +6,7 @@
 
 Hi there! 👋
 
-My Name is Niklas Haiden and I am currently a full-time student and aspiring software engineer.
-I am an enrolled student at the vocational school HTL St.Pölten in Lower Austria. 
+My name is Niklas Haiden. Currently I am a full-time student finishing school soon. I am aspring to become software engineer after my civil service. 
 
 ## Socials 
 
@@ -19,6 +18,9 @@ I am an enrolled student at the vocational school HTL St.Pölten in Lower Austri
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
 My Email: hello@niklas.life
+or on this one: niklas@haiden.ch 
+
+Feel free to shoot me a mail. 
 
 ## Currently working or experimenting with: 
 
@@ -35,8 +37,8 @@ My Email: hello@niklas.life
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 
 
-👨‍🔬 Experimenting with different technologies is my jam and I am currently learning App Development in Flutter.
-As part of my learning process in school I made a lot assignments, these are contained in LabXX Repositories.
+👨‍🔬 Everyday there are new technologies that are coming out. Currently I am learning App Dev in Flutter and Web Dev in React. I am in love with Jetbrains Products. 
+As part of my school curriculum I made a lot of assignments during software engineering class in School. I put them up on Github for archival purposes. Feel free to poke around, don't be surprised if it's poor written code tho. Thanks 😄.
 <!--**NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><!--
 Here are some ideas to get you started:
