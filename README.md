@@ -17,7 +17,7 @@ My name is Niklas Haiden. Currently I am a full-time student finishing school so
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
-My Email: hello@niklas.life
+My Email: servus@niklas.life
 or on this one: niklas@haiden.ch 
 
 Feel free to shoot me a mail. 
