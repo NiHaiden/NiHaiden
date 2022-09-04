@@ -17,7 +17,7 @@ My name is Niklas Haiden. Currently I am a full-time student finishing school so
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
-My Email: niklas@haiden.ch 
+My Email: nkls@duck.com 
 
 Feel free to shoot me a mail. 
 
