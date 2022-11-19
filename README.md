@@ -6,12 +6,11 @@
 
 Hi there! 👋
 
-My name is Niklas Haiden. Currently I am a full-time student finishing school soon. I am aspring to become software engineer after my civil service. 
+My name is Niklas Haiden. Currently I am a "Rettungssanitäter" (Emergency Medical Technician) which I am doing as part of my civil service ("Zivildienst" as it's called in German / Austria). I aspire to study at university and find work as a software engineer soon.
 
 ## Socials 
 
 [![GitHub](icons/github.png)](https://github.com/NiHaiden)
-[![Twitter](icons/twitter.png)](https://twitter.com/niklashdev)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/niklas-haiden-352853123/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/nklsh.jpeg/)
 
