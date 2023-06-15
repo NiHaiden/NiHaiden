@@ -6,7 +6,7 @@
 
 Hi there! 👋
 
-My name is Niklas Haiden. Currently I am a "Rettungssanitäter" (Emergency Medical Technician) which I am doing as part of my civil service ("Zivildienst" as it's called in German / Austria). I aspire to study at university and find work as a software engineer soon.
+My name is Niklas Haiden. Working (soon) at GDV-DL GmbH. 
 
 ## Socials 
 
@@ -16,7 +16,7 @@ My name is Niklas Haiden. Currently I am a "Rettungssanitäter" (Emergency Medic
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
-My Email: nkls@duck.com 
+My Email: niklas@niklas.tech
 
 Feel free to shoot me a mail. 
 
