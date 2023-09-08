@@ -6,7 +6,7 @@
 
 Hi there! 👋
 
-My name is Niklas Haiden. Working (soon) at GDV-DL GmbH. 
+My name is Niklas Haiden. Working at GDV-DL GmbH. 
 
 ## Socials 
 
@@ -35,8 +35,7 @@ Feel free to shoot me a mail.
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 
 
-👨‍🔬 Everyday there are new technologies that are coming out. Currently I am learning App Dev in Flutter and Web Dev in React. I am in love with Jetbrains Products. 
-As part of my school curriculum I made a lot of assignments during software engineering class in School. I put them up on Github for archival purposes. Feel free to poke around, don't be surprised if it's poor written code tho. Thanks 😄.
+👨‍🔬 Everyday there are new technologies that are coming out. You can find me doing stuff in Kotlin and Java with Spring Boot (my fav framework of all time) and some frontend work in NextJS, React and other things. I have a passion for types and would probably never use a language without it. Flutter was my endevaour and first taste of cross-plattform App Dev and I will try React Native next. 
 <!--**NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><!--
 Here are some ideas to get you started:
