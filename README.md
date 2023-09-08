@@ -6,7 +6,7 @@
 
 Hi there! 👋
 
-My name is Niklas Haiden. Working at GDV-DL GmbH. 
+My name is Niklas Haiden, 21 years old, living in Hamburg and working at GDV-DL GmbH. Born and raised in Austria, I decided to dip my toes into international waters and moved to Hamburg. 
 
 ## Socials 
 
