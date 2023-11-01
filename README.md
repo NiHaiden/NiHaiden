@@ -10,9 +10,9 @@ My name is Niklas Haiden, 21 years old, aspiring software engineer from Vienna, 
 
 ## Socials 
 
-[![GitHub](icons/github.png)](https://github.com/NiHaiden)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/niklas-haiden-352853123/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/nklsh.jpeg/)
+[<img src="icons/github.svg" width=50 height=40/>](https://github.com/NiHaiden)
+[<img src="icons/linkedin.svg" width=50 height=40/>](https://www.linkedin.com/in/niklas-haiden-352853123/)
+[<img src="icons/instagram.svg" width=50 height=40/>](https://www.instagram.com/nklsh.jpeg/)
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
@@ -36,15 +36,3 @@ Feel free to shoot me a mail.
 
 
 👨‍🔬 Everyday there are new technologies that are coming out. You can find me doing stuff in Kotlin and Java with Spring Boot (my fav framework of all time) and some frontend work in NextJS, React and other things. I have a passion for types and would probably never use a language without it. Flutter was my endevaour and first taste of cross-plattform App Dev and I will try React Native next. 
-<!--**NiHaiden/NiHaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---><!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
