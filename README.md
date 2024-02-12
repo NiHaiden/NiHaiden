@@ -35,4 +35,6 @@ Feel free to shoot me a mail.
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 
 
-👨‍🔬 Everyday there are new technologies that are coming out. You can find me doing stuff in Kotlin and Java with Spring Boot (my fav framework of all time) and some frontend work in NextJS, React and other things. I have a passion for types and would probably never use a language without it. Flutter was my endevaour and first taste of cross-plattform App Dev and I will try React Native next. 
+👨‍🔬 Technologies come and go, and some are here to stay. I am open to experimenting to new things. My current Stack consists of React (Remix/NextJS) on the Frontend and TypeScript (hono is currently my fav) or Java/Kotlin (mostly with Spring Boot) on the backend. I am also a big, big fan of Containers and Containerization of applications and all that goes with it. Side-quests include the maintaining of my own OCI OS Image named Aurora based on Fedora and other things, including a Heroku Clone I am building in my free time. 
+
+Let's connect and rock together!
