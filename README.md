@@ -11,7 +11,7 @@ My interests in tech and non-related fiels are quite large, but include photogra
 I also deerly enjoy writing websites from scratch!
 ## Socials 
 
-Let's connect on
+Let's connect on via one of my many socials, including:
 
 [<img src="icons/github.svg" width=50 height=40/>](https://github.com/NiHaiden)
 [<img src="icons/linkedin.svg" width=50 height=40/>](https://www.linkedin.com/in/niklas-haiden-352853123/)
