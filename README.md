@@ -19,7 +19,7 @@ Let's connect on via one of my many socials, including:
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
-My Email: niklas@niklas.tech
+My Email: me@nhaiden.io
 
 or on the contact form on my new website: <a href="https://niklas.tech">My Website</a>
 
