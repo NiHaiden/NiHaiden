@@ -15,7 +15,6 @@ Let's connect on via one of my many socials, including:
 
 [<img src="icons/github.svg" width=50 height=40/>](https://github.com/NiHaiden)
 [<img src="icons/linkedin.svg" width=50 height=40/>](https://www.linkedin.com/in/niklas-haiden-352853123/)
-[<img src="icons/instagram.svg" width=50 height=40/>](https://www.instagram.com/nklshai/)
 
 Want to get in contact via the old fashioned way? Shoot me a message here: 
 
