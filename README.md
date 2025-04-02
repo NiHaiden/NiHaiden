@@ -25,31 +25,5 @@ or on the contact form on my new website: <a href="https://niklas.tech">My Websi
 Feel free to shoot me a mail. 
 
 # My Tech Stack
+React, NextJS, Tailwind & CSS, Typescript, JVM (Java&Kotlin) etc. 
 
-## Web / Frontend
-
-- React
-- NextJS
-- Tailwind & CSS
-- Typescript
-
-## Backend 
-
-### Spring / Java Projects
-
-- Java
-- Kotlin
-- Spring Boot
-- Hibernate for Database Access
-
-### Typescript Projects
-
-- Typescript
-- Prisma / Drizzle
-- NodeJS
-
-## Databases I know my way around 
-
-- PostgreSQL
-- MySQL / MariaDB
-- MongoDB
