@@ -6,7 +6,7 @@
 
 Hello there!
 
-My Name is Niklas and I am a 21 year old Junior Developer, located and living in Vienna, Austria. 🇦🇹
+My Name is Niklas and I am a 22 year old Full-Stack Developer, located and living in Vienna, Austria. 🇦🇹
 My interests in tech and non-related fiels are quite large, but include photography, Linux, Open-Source and contributing to other projects. 
 I also deerly enjoy writing websites from scratch!
 ## Socials 
