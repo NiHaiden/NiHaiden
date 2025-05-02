@@ -25,5 +25,6 @@ or on the contact form on my new website: <a href="https://niklas.tech">My Websi
 Feel free to shoot me a mail. 
 
 # My Tech Stack
-React, NextJS, Tailwind & CSS, Typescript, JVM (Java&Kotlin) etc. 
+React, NextJS, Tailwind & CSS, Typescript, JVM (Java&Kotlin), Postgres, Python, FastAPI - almost everything ;) 
+
 
