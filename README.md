@@ -20,8 +20,6 @@ Want to get in contact via the old fashioned way? Shoot me a message here:
 
 My Email: me@nhaiden.io
 
-or on the contact form on my new website: <a href="https://niklas.tech">My Website</a>
-
 Feel free to shoot me a mail. 
 
 # My Tech Stack
