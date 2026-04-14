@@ -4,25 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=NiHaiden&color=green)
 
-Hello there!
+Hi there!
 
-My name is Niklas and I am a 23 year old Full-Stack Developer from Austria. 
-My interests in tech and non-related fiels are quite large, but include photography, Linux, Open-Source and contributing to other projects. 
-I also deerly enjoy writing websites from scratch!
-## Socials 
+I am Niklas, a 23 year old full stack software engineer from Austria, residing in the Vienna metro-area. I mainly code in Java and using TypeScript + React (and a meta-framework of choice) for my applications, with Python and other languages on the side. 
 
-Let's connect on via one of my many socials, including:
+You can always reach me over at me@nhaiden.io or through LinkedIn!
 
-[<img src="icons/github.svg" width=50 height=40/>](https://github.com/NiHaiden)
-[<img src="icons/linkedin.svg" width=50 height=40/>](https://www.linkedin.com/in/niklas-haiden-352853123/)
+See you there!
 
-Want to get in contact via the old fashioned way? Shoot me a message here: 
-
-My Email: me@nhaiden.io
-
-Feel free to shoot me a mail. 
-
-# My Tech Stack
-React, NextJS, Tailwind & CSS, Typescript, JVM (Java&Kotlin), Postgres, Python, FastAPI - almost everything ;) 
-
-
+~Niklas
